@@ -1,4 +1,4 @@
-package Dharunish;
+// package Dharunish;
 import java.util.*;
 public class Factorial {
 
@@ -9,6 +9,6 @@ public class Factorial {
 		
 		for(int i=num; i>0; i--)
 			result *= i;
-		System.out.println(result);
+		    System.out.println(result);
 	}
 }

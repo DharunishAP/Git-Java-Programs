@@ -1,6 +1,6 @@
-package Dharunish;
+// package Dharunish;
 import java.util.*;
-public class OptiEffGCD {
+public class GCDEfficientMethod {
 /*
  * Optimized Euclid's Algorithm 
  * 

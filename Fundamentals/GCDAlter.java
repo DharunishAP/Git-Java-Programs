@@ -1,6 +1,6 @@
-package Dharunish;
+// package Dharunish;
 import java.util.*;
-public class EffGCD {
+public class GCDAlter {
 	
 	/*
 	      Euclid's Algorithm  (Efficient Way to find the GCD of the 2 numbers)

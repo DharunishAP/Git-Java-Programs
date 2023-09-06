@@ -1,4 +1,4 @@
-package Dharunish;
+// package Dharunish;
 import java.util.*;
 
 // ***Brute Force Approach**** Time Complexity = O(n) --->(O(min (num1,num2)))

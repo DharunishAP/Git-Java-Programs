@@ -1,6 +1,6 @@
-package Dharunish;
+// package Dharunish;
 import java.util.*;
-public class LCMEff {
+public class LCMEffectiveWay {
 	
 /*
  * Euclid's Algorithm

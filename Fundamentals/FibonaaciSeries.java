@@ -1,6 +1,6 @@
-package Dharunish;
+// package Dharunish;
 //import java.util.*;
-public class Fibo {
+public class FibonaaciSeries {
 
 	public static void main(String[] args) {
 		//Scanner input = new Scanner(System.in);
