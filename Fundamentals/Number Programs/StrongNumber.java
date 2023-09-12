@@ -1,4 +1,4 @@
-package Dharunish;
+// package Dharunish;
 import java.util.*;
 public class StrongNumber {
 	public static void main(String[] args) {
